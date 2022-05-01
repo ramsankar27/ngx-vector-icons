@@ -7,6 +7,7 @@
 
 
 An easy way to add icons to your Angular app.
+
 [Angular Vector icons directory ](https://ramsankar27.github.io/ngx-vector-icons/) has over 5000 icons to choose from.
 
 ![Ngx vector icons banner image](https://raw.githubusercontent.com/ramsankar27/ngx-vector-icons/main/ngx-vector-icon-banner.png)
