@@ -26,7 +26,7 @@ An easy way to add icons to your Angular app.
 - [SimpleLineIcons](https://simplelineicons.github.io/) by Sabbir & Contributors (200+ icons)
 
 ## 🚀 Demo
-If you'd like to see an example, please [click here](https://github.com/ramsankar27/ngx-vector-icons#-step-4-).
+If you'd like to see an example, please [click here](#-step-4-).
 ## 🔥 Installation
 ```sh
 npm install ngx-vector-icons
